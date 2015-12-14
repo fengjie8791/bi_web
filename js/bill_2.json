@@ -1,0 +1,47 @@
+{
+    "ACL": {
+        "*": {
+            "read": true,
+            "write": true
+        },
+        "UyIcDhv5h4": {
+            "read": true,
+            "write": true
+        }
+    },
+    "createdAt": "2014-10-21T22:45:43.345Z",
+    "email": "fllying8791@gmail.com",
+    "instacheckImg": null,
+    "instacheckItems": "1 Cake 12.99\n1 Oysters 6.99\n\n1 Smelts 12.00\n\n1 Duck Terrine 14.00\n\n1 Prix Dessrt 25.00\n\n1 AG Malbec 12.99\n\n1 Soup -  4.99\n\nSub Totai: 88.96\n\nTax: 7.78\n\nTotai: 96.74\n\nAmount Due: 100.00",
+    "updatedAt": "2015-10-07T20:38:55.077Z",
+    "objectId": "RgtlUQ5000"
+}
+
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+1 Indian food1 20.00
+
+Sub Totai: 200.00
+
+Tax: 18.00
+
+Totai: 218.00
+
+Amount Due: 230.00
